@@ -1,0 +1,20 @@
+[color=#696682]
+╔════════════╗
+║░░░░░░████░░║
+║░░░░░░██████║
+║░░░░░░██░░██║
+║░░░░░░██░░░░║
+║░░██████░░░░║
+║░░████░░░░░░║
+╚════════════╝
+[/color]
+[head=2]Job Change Authorization
+[/head]
+[bold]NT Employee:[/bold] Sample
+
+[bold]Requested New Job:[/bold] Musician
+
+[bold]Required Stamps:[/bold]  
+• [color=#1b67a5]Head of Personnel[/color]
+
+[italic][color=#aaaaaa]This form is deemed invalid if it is not stamped by the applicable heads of staff or captain. Head of Personnel must sign and stamp this document, as well as photocopy and distribute it to the applicant.[/italic][/color]
