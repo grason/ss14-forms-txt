@@ -1,0 +1,17 @@
+                            [color=#1b67a5]╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝[/color]
+[color=#028a0f][head=3]                     SIMPLE REQUEST APPROVAL[/head]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+
+• [bold]Name:[/bold] Sample
+• [bold]Request:[/bold] Request
+
+[bold]Required Stamps:[/bold] 
+• [color=#1b67a5]Head of Personnel[/color]
+
+[italic][color=#aaaaaa]This form is deemed invalid if it is not stamped by the applicable heads of staff or captain. Head of Personnel must sign and stamp this document, as well as photocopy and distribute it to the applicant.[/italic][/color]

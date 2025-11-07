@@ -1,0 +1,48 @@
+                            [color=#1b67a5]╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝[/color]
+[color=#028a0f][head=3]                          CONTRABAND PERMIT[/head]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+
+• [bold]Applicant Name:[/bold] Sample
+• [bold]Item:[/bold] Item
+• [bold]Use Case of Item:[/bold] Sample
+
+• [bold]How I got this:[/bold]
+\[ ] Salvage/Salvager Trade
+\[ ] Maintenance Locker
+\[ ] Syndicate Representative
+\[ ] Crafted
+\[ ] Anonymous Stranger/Discarded in Hallway
+\[ ] Named Dealer: 
+\[ ] Other
+
+
+[bold]Applicant's signature is required![/bold]
+[italic][color=#aaaaaa]By signing, applicant agrees to never: 
+• Damage the station core infrastructure 
+• Harm command staff with this item.
+• Harm a security officer with this item.
+• Harm crew members with this item.
+• Damage station equipment with this Item[/color][/italic]
+
+Breach of this agreement will result in a report to security, nullifying the permissions this provides and possibly resulting in criminal charges.
+
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[head=3]Filled out by Head of Personnel only: [/head]
+[italic][color=#aaaaaa](Tamper will result in denial and criminal charges)[/color][/italic]
+
+Optional Serial Identification Number: 000000
+
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[bold]Required Stamps:[/bold] 
+• [color=#cb0000]Head of Security[/color]  
+• [color=#1b67a5]Captain[/color]
+• [color=#1b67a5]Head of Personnel[/color]
+
+[italic][color=#aaaaaa]This form is deemed invalid if it is not stamped by the applicable heads of staff or captain. Head of Personnel must sign and stamp this document, as well as photocopy and distribute it to the applicant.[/italic][/color]
