@@ -14,8 +14,10 @@
 
 [bold]Requested New Job:[/bold] Quartermaster
 
+[color=#cb0000][bold]MINDSHIELD IMPLANTATION IS REQUIRED[/color][bold]
+
 [bold]Required Stamps:[/bold] 
 • [color=#1b67a5]Captain[/color] or [color=#b18644]Cargo Vouch[/color]
 • [color=#1b67a5]Head of Personnel[/color]
 
-[italic][color=#aaaaaa]This form is deemed invalid if it is not stamped. One employee from the same department can nominate another (Vouch) to take the place of a Captain stamp if no head is present on station. Head of Personnel must sign and stamp this document, as well as photocopy and distribute it to the applicant.[/italic][/color]
+[italic][color=#aaaaaa]By signing, applicant agrees to a mandatory mindshielding implantation procedure. This form is deemed invalid if it is not stamped. One employee from the same department can nominate another (Vouch) to take the place of a Captain stamp if no head is present on station. Head of Personnel must sign and stamp this document, as well as photocopy and distribute it to the applicant.[/italic][/color]

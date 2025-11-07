@@ -1,0 +1,23 @@
+[color=#cb0000]
+╔════════════╗
+║░░░░░░████░░║
+║░░░░██░░░░██║
+║░░░░██░░░░██║
+║░░░░██████░░║
+║░░██░░░░░░░░║
+║██░░░░░░░░░░║
+╚════════════╝
+[/color]   
+[head=2]Job Change Authorization
+[/head]
+[bold]NT Employee:[/bold] Sample
+
+[bold]Requested New Job:[/bold] Sample
+
+[color=#cb0000][bold]MINDSHIELD IMPLANTATION IS REQUIRED[/color][bold]
+
+[bold]Required Stamps:[/bold] 
+• [color=#cb0000]Head of Security[/color]   
+• [color=#1b67a5]Head of Personnel[/color]
+
+[italic][color=#aaaaaa]By signing, applicant agrees to a mandatory mindshielding implantation procedure. This form is deemed invalid if it is not stamped by the applicable heads of staff or captain. Head of Personnel must sign and stamp this document, as well as photocopy and distribute it to the applicant.[/italic][/color]

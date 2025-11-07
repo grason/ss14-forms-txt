@@ -14,11 +14,13 @@
 
 [bold]Requested New Job:[/bold] Captain
 
+[color=#cb0000][bold]MINDSHIELD IMPLANTATION IS REQUIRED[/color][bold]
+
 [bold]Required Stamps:[/bold] 
 • [color=#009100]CentComm[/color] or [color=#134975]NanoTrasen Representative[/color] or [color=#1b67a5]Vouch[/color]
 • [color=#1b67a5]Head of Personnel[/color]
 
 
 
-[italic][color=#aaaaaa]This form is deemed invalid if it is not stamped by the CC or NT Representative. One employee from the same department can nominate another (Vouch) to take the place of a NT stamp if no captain is present on station. Head of Personnel must sign and stamp this document, as well as photocopy and distribute it to the applicant.[/italic][/color]
+[italic][color=#aaaaaa]By signing, applicant agrees to a mandatory mindshielding implantation procedure. This form is deemed invalid if it is not stamped by the CC or NT Representative. One employee from the same department can nominate another (Vouch) to take the place of a NT stamp if no captain is present on station. Head of Personnel must sign and stamp this document, as well as photocopy and distribute it to the applicant.[/italic][/color]
 
