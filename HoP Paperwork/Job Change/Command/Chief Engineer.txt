@@ -6,7 +6,8 @@
 ║░░████████░░║
 ║██████░░░░░░║
 ║████░░░░░░░░║
-╚════════════╝[/color]   
+╚════════════╝
+[/color]   
 [head=2]CE Promotion Authorization
 [/head]
 [bold]NT Employee:[/bold] Sample

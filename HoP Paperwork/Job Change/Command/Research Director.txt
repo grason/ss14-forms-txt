@@ -6,7 +6,8 @@
 ║░░██░░░░██░░║
 ║░░░░████░░░░║
 ║░░██░░░░██░░║
-╚════════════╝[/color]
+╚════════════╝
+[/color]
 [head=2]RD Promotion Authorization
 [/head]
 [bold]NT Employee:[/bold] Sample

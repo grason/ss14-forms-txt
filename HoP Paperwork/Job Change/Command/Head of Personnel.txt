@@ -6,7 +6,8 @@
 ║░░████████░░║
 ║░░░░████░░░░║
 ║████████████║
-╚════════════╝[/color]  
+╚════════════╝
+[/color]  
 [head=2]HOP Promotion Authorization
 [/head]
 [bold]NT Employee:[/bold] Sample

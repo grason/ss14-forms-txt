@@ -6,7 +6,8 @@
 ║████████████║
 ║░░░░████░░░░║
 ║░░░░████░░░░║
-╚════════════╝[/color]  
+╚════════════╝
+[/color]  
 [head=2]CMO Promotion Authorization
 [/head]
 [bold]NT Employee:[/bold] Sample
