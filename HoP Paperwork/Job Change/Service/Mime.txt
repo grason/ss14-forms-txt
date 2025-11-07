@@ -1,3 +1,4 @@
+#Job Change: Mime
 [color=#696682]
 ╔════════════╗
 ║░░████████░░║
@@ -12,7 +13,7 @@
 [/head]
 [bold]NT Employee:[/bold] Sample
 
-[bold]Requested New Job:[/bold] Sample
+[bold]Requested New Job:[/bold] Mime
 
 [bold]Required Stamps:[/bold]  
 • [color=#1b67a5]Head of Personnel[/color]
